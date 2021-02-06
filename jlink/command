@@ -1,0 +1,1 @@
+jlink --module-path "C:\Users\Werner Thumann\Desktop\jlink\bin;C:\Program Files\Java\jdk-10.0.2\jmods" --add-modules thw.rootsproj --output "C:\Users\Werner Thumann\Desktop\jlink\RootSystemProjector" --verbose --compress=2 --launcher RootSystemProjector=thw.rootsproj/thw.rootsproj.ApplicationMain --release-info=add:ROOTSYSPROJ_VERSION=1.4
